@@ -3,5 +3,5 @@
 You can read about this program in file "README.pdf"
 
 
-(P.S.)  If you click on file "README.pdf" then it show something wrong.
-please you click on this file agian.
+(P.S.)  If you click on file "README.pdf", then it shows something wrong.
+ Please you click on this file agian.
